@@ -4,7 +4,7 @@
 #include <QWidget>
 
 namespace Ui {
-class findclass;//关于测试
+class findclass;//关于测试的
 }
 
 class findclass : public QWidget
