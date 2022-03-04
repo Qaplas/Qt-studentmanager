@@ -4,7 +4,7 @@
 #include <QWidget>
 
 namespace Ui {
-class findclass;
+class findclass;//¹ØÓÚ²âÊÔ
 }
 
 class findclass : public QWidget
