@@ -4,7 +4,7 @@
 #include <QWidget>
 
 namespace Ui {
-class updatelogin;
+class updatelogin;//更新测试 看回归操作
 }
 
 class updatelogin : public QWidget
