@@ -4,7 +4,7 @@
 #include <QWidget>
 
 namespace Ui {
-class updatelogin;//更新测试 看回归操作
+class updatelogin;
 }
 
 class updatelogin : public QWidget
@@ -21,6 +21,8 @@ private slots:
     void on_login_updatepushButton_clicked();
 
     void on_loginupdatebackButton_clicked();
+
+    void logine();//我自己加上的20220307 可以删
 
 private:
     Ui::updatelogin *ui;
